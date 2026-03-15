@@ -67,3 +67,9 @@ age++       // age += 1
 age--       // age -= 1
 // ++age    >> pre-increment (change, then use)
 // age++    >> post-increment (use, then change)
+
+// Practice Questions
+// What is the value of each variable in each line of code?
+let num = 5;                // num = 5
+let newNum = num++;         // newNum = 5, num = 6
+newNum = ++num;            // newNum = 7, num = 7
