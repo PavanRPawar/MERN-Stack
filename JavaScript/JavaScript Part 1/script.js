@@ -56,3 +56,8 @@ let eng = 90;
 let math = 100;
 let avg = (hindi + eng + math) / 3;
 console.log(avg);
+
+// Assignment Operators
+age += 1      // age = age + 1
+age -= 1      // age = age - 1
+age *= 1      // age = age * 1
