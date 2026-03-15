@@ -39,3 +39,10 @@ console.log(NaN + NaN);
 console.log((2+1)*3);         // 9
 console.log(3/1+2**2);        // 7
 console.log(4+1*6/2);         // 7
+
+// let, const & var keywords
+let age = 23;
+let cgpa;
+cgpa = 8.43;
+const pi = 3.14;
+var number = 151;
