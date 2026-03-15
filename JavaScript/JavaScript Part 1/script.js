@@ -25,3 +25,11 @@ console.log(num1 * num2);      // multiplication
 console.log(num1 / num2);      // division
 console.log(num1 % num2);      // modulo
 console.log(num1 ** num2);     // exponentiation
+
+// NaN
+console.log(0/0);
+console.log(typeof(NaN));
+console.log(NaN - 1);
+console.log(NaN * 1);
+console.log(NaN + NaN);
+
