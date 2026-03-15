@@ -61,3 +61,9 @@ console.log(avg);
 age += 1      // age = age + 1
 age -= 1      // age = age - 1
 age *= 1      // age = age * 1
+
+// Unary Operators
+age++       // age += 1
+age--       // age -= 1
+// ++age    >> pre-increment (change, then use)
+// age++    >> post-increment (use, then change)
