@@ -33,3 +33,9 @@ console.log(NaN - 1);
 console.log(NaN * 1);
 console.log(NaN + NaN);
 
+// Operator Precendence
+// This is the general order of solving an expression
+// ()        **        *,/,%        +,-
+console.log((2+1)*3);         // 9
+console.log(3/1+2**2);        // 7
+console.log(4+1*6/2);         // 7
