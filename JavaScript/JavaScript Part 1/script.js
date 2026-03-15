@@ -15,3 +15,13 @@ console.log(typeof(name));
 // Positive (14) & Negative (-4)
 // Integers (45, -50)
 // Floating numbers - with decimal (4.6, -8.9)
+
+// Operations
+let num1 = 10
+let num2 = 5
+console.log(num1 + num2);      // addition
+console.log(num1 - num2);      // subtraction
+console.log(num1 * num2);      // multiplication
+console.log(num1 / num2);      // division
+console.log(num1 % num2);      // modulo
+console.log(num1 ** num2);     // exponentiation
