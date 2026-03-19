@@ -82,3 +82,7 @@ console.log(typeof(isAdult));
 
 // TypeScript
 // Static(fixed) Typed, where JS is dynamic(change) typed
+
+// String in JS
+let firstName = 'Pavan'
+console.log(firstName);
