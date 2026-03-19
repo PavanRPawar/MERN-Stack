@@ -86,3 +86,9 @@ console.log(typeof(isAdult));
 // String in JS
 let firstName = 'Pavan'
 console.log(firstName);
+
+// String Indices
+let fullName = "Pavan Pawar"
+console.log(fullName[0]);
+console.log(fullName[1]);
+console.log(fullName.length);
