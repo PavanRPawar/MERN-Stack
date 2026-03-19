@@ -75,3 +75,7 @@ let newNum = num++;         // newNum = 5, num = 6
 newNum = ++num;            // newNum = 7, num = 7
 
 // Identifier 
+
+// Boolean
+let isAdult = false;
+console.log(typeof(isAdult));
