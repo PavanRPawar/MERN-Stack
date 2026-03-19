@@ -79,3 +79,6 @@ newNum = ++num;            // newNum = 7, num = 7
 // Boolean
 let isAdult = false;
 console.log(typeof(isAdult));
+
+// TypeScript
+// Static(fixed) Typed, where JS is dynamic(change) typed
