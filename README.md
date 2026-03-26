@@ -1,2 +1,2 @@
 ﻿# MERN-Stack
-# MERN-Stack Pratice
+# MERN-Stack
