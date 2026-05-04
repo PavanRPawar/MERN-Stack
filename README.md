@@ -1,2 +1,2 @@
 ﻿# MERN-Stack
-## MERN_Stack Course
+## MERN-Stack Course
